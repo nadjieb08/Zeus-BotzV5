@@ -35,7 +35,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  //https://rest-api-jibb.herokuapp.com/api 'apikey' (ZBOTZZZZ)
+  // name: https://rest-api-jibb.herokuapp.com/api 'apikey' (ZBOTZZZZ)
   'https://server-api-rey.herokuapp.com': 'apirey',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
   'https://hardianto.xyz': 'hardianto',
